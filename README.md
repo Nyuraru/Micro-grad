@@ -7,3 +7,10 @@ A tiny Autograd engine. Implements backpropagation (reverse-mode autodiff) over 
 ```bash
 pip install micrograd
 ```
+
+
+### TO USE:
+
+```bash
+from micrograd.engine import Value
+```
